@@ -16,5 +16,5 @@ This project created by basic use of HTML, CSS and Java Script.
 
 ## Outputs
 
-![Screenshot 2024-01-24 153640](https://github.com/Kanika-1404/Basic-Calculator/assets/140299493/6011f702-61ce-4313-9370-402f882a8def) ![Screenshot 2024-01-24 153656](https://github.com/Kanika-1404/Basic-Calculator/assets/140299493/57ffa3e7-1c03-4e51-b366-e89c25d55e7b)
-
+![Screenshot 2024-02-07 194153](https://github.com/Kanika-1404/Cricket-Game/assets/140299493/7b4888bc-0ca5-4ce3-979d-282fe11135b3)
+![Screenshot 2024-02-07 194153](https://github.com/Kanika-1404/Cricket-Game/assets/140299493/d43ec13e-cbd7-40ae-b5b5-c4b3615f37f6)
