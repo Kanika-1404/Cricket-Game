@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Rubik+Glitch+Pop&display=swap');
+*{
+    font-family: 'Playfair Display', serif;
+}
+body{
+    background-color: aqua;
+}
+h1{
+    text-align: center ;
+    color: rgb(4, 4, 111);
+    margin-top: 80px;
+    font-weight: bolder;
+    font-size: 40px;
+    font-family: 'Rubik Glitch Pop', system-u;
+}
+.btn_container{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+button{
+    width:100px;
+    padding: 5px;
+    background-color: antiquewhite;
+    border: 2px antiquewhite solid;
+    border-radius: 3px;
+    margin: 5px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.user{
+    margin: 20px;
+    background-color: rgb(37, 196, 240);
+    padding: 10px;
+    text-align: center;
+}
+.versus{
+    margin: 20px;
+}
+.result{
+    background-color: antiquewhite;
+    width: 350px;
+    padding: 20px;
+    margin: 1px 110px;
+    text-align: center;
+    align-items: center;
+}
+.choice, .res{
+    font-size: x-large;
+    color: rgb(135, 47, 47);
+    font-weight: bold;
+}
+

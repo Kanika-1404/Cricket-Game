@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cricket Game</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+<body>
+    <h1>Cricket Game</h1>
+    <main>
+        <div class="btn_container">
+            <button onclick="
+                userChoice='Bat';
+                GenerateCompChoice();
+                compareChoice();
+                printResult();
+            "><i class="fa-solid fa-cricket-bat-ball"></i> Bat</button>
+            <button onclick="
+                userChoice='Ball';
+                GenerateCompChoice();
+                compareChoice();
+                printResult();
+            "><i class="fa-solid fa-baseball"></i> Ball</button>
+            <button onclick="
+                userChoice='Stump';
+                GenerateCompChoice();
+                compareChoice();                
+                printResult();
+            ">Stump</button>
+            <button onclick="
+                score={
+                    win: 0,
+                    lose: 0,
+                    tie: 0,
+                }
+                StoreData(score);
+                printResetResult();
+            ">Reset</button>
+        </div>
+        <div class="container">
+            <div class="user">
+                User Choice <br>
+                <p class="choice" id="userCh"></p>
+            </div>
+            <div class="versus">
+                <br><br>VS
+            </div>
+            <div class="user">
+                Computers Choice <br>
+                <p class="choice" id="compCh"></p>
+            </div>
+        </div>
+        <div class="result">
+            <p class="res" id="resultStat"></p>
+        </div>
+    </main>
+
+    <script src="sheet.js"></script>
+</body>
+</html>
