@@ -1,5 +1,6 @@
 # Cricket Game
-This project created by basic use of HTML, CSS and Java Script.
+Tnis game provide a plaform for an individual to play exiting Cricket game without searching for the second player. Palyer can play the game with computer and check the final results. We have also connected it to local storage so that the scores of the game doesn't vanish without player's will. We have provided reset button to restart the game.
+This project is created by use of HTML, CSS and Java Script.
 
 ## How to Run??
 * Download all the files. 
