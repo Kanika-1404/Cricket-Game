@@ -16,7 +16,7 @@ This project is created by use of HTML, CSS and Java Script.
 * **sheet.js**: Itis the Java Script applied for the proper working of game.
 
 ## Outputs
-User interface when we open the Game:
+User interface when we open the Game: <br>
 ![Screenshot 2024-02-07 194153](https://github.com/Kanika-1404/Cricket-Game/assets/140299493/7b4888bc-0ca5-4ce3-979d-282fe11135b3)
-User interface when we reset the game:
+<br>User interface when we reset the game: <br>
 ![Screenshot 2024-02-07 194153](https://github.com/Kanika-1404/Cricket-Game/assets/140299493/d43ec13e-cbd7-40ae-b5b5-c4b3615f37f6)
